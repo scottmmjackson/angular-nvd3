@@ -28,7 +28,7 @@
   "dependencies": {
     "angular": "^1.x",
     "d3": "^4.9.1",
-    "nvd3": "git+ssh://git@github.com/scottmmjackson/nvd3.git#sj-stackedarea-only"
+    "nvd3": "git+ssh://git@github.com/scottmmjackson/nvd3.git#sj-upgrade-d3"
   },
   "devDependencies": {
     "angular-mocks": "^1.x",
